@@ -13,5 +13,8 @@ python manage.py runserver 0.0.0.0:8000
 
 ### Developer information
 Name - Amar Shukla
+
 Email  - amarshukla123@gmail.com
+
 Linkedin - https://www.linkedin.com/in/amarshukla123/
+
